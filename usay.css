@@ -1,0 +1,25 @@
+body{
+ background: url(https://bestwallpapers.co/wp-content/uploads/2018/05/cool-blue-background-157251-walldevil.jpg);
+    background-repeat: no-repeat;
+       background-size: 200% 100%;
+       
+}
+h1 {
+    color: orange;
+
+      font-size: 30px;
+        font-family:"Arial Black", Gadget, sans-serif;
+     
+       
+}
+
+h2 {
+  text-align: left;
+ font-family:"cursive"
+
+  color:lightblue;
+}
+h3{
+  color:yellow;
+  font-size:25px;
+}
